@@ -1,0 +1,28 @@
+PODS:
+  - IQKeyboardManagerSwift (6.2.0)
+  - StatefulViewController (3.0)
+  - SwiftGoogleTranslate (0.2.1)
+  - TextFieldEffects (1.5.1)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - StatefulViewController (~> 3.0)
+  - SwiftGoogleTranslate
+  - TextFieldEffects
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - StatefulViewController
+    - SwiftGoogleTranslate
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  StatefulViewController: 4803bf900d44de26074344998e10e041113b5931
+  SwiftGoogleTranslate: 96960d3548e800e15b347518afca546d2edc8519
+  TextFieldEffects: 7d372f58aeaf9acd9626bbf962680aef926b085d
+
+PODFILE CHECKSUM: 2fff38d6e55c195efc28dfb6f397ade7792d1938
+
+COCOAPODS: 1.5.3
