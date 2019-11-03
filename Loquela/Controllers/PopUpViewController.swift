@@ -37,7 +37,7 @@ class PopUpViewController: UIViewController, UIPickerViewDelegate, UIPickerViewD
         super.viewDidLoad()
         
         // for google translate cocapod
-        SwiftGoogleTranslate.shared.start(with: "AIzaSyANdMGt-J5SRKQbI2Y4MSYyo44RkYfITFc")
+        SwiftGoogleTranslate.shared.start(with: "API_KEY")
         
         // for popup
         self.definesPresentationContext = true
